@@ -1,11 +1,11 @@
 tag1:
-  name: Journal
+  name: Linux
 
 tag2:
-  name: Project
+  name: DB
 
 tag3:
-  name: Thoughts
+  name: Docker
 
 tag4:
-  name: Archive
+  name: Tomcat
