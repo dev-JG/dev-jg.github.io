@@ -1,20 +1,20 @@
-Tomcat:
-  name: Tomcat
+tag1:
+  name: tag1
 
-Linux:
-  name: Linux
+tag2:
+  name: tag2
 
-DB:
-  name: DB
+tag3:
+  name: tag3
 
-Docker:
-  name: Docker
+tag4:
+  name: tag4
 
-JS:
-  name: JS
+tag5:
+  name: tag5
 
-Java:
-  name: Java
+tag6:
+  name: tag6
 
-SpringBoot:
-  name: SpringBoot
+tag7:
+  name: tag7
