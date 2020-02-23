@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: #dev-jg.github.io/
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Dev-JG 개발 블로그
+description: Dev-JG 개발 히스토리
 google_verification: null
 
 
