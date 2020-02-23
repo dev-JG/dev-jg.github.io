@@ -1,11 +1,20 @@
 tag1:
-  name: tag1
+  name: DB
 
 tag2:
-  name: tag2
+  name: Docker
 
 tag3:
-  name: tag3
+  name: Java
 
 tag4:
-  name: tag4
+  name: JS
+
+tag5:
+  name: Spring Boot
+
+tag6:
+  name: Tomcat
+
+tag7:
+  name: Linux
