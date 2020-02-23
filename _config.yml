@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: "https://dev-jg.github.io/"
+url: #dev-jg.github.io/
 baseurl: /project
 
 # variables
-name: Dev-JG의 개발 블로그
-description: Dev-JG의 잡다한 개발 히스토리
+name: Dev-JG 개발 블로그
+description: Dev-JG 개발 히스토리
 google_verification: null
 
 
